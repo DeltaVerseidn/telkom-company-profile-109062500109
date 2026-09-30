@@ -11,7 +11,8 @@ Aplikasi web profil perusahaan berbasis PHP dan MySQL yang dikembangkan mengguna
 
 ## Catatan Penanganan Merge Conflict
 
-masih banyak banget yang harus dihafalin ama di eksekusi dengan benar, banyak kendala saat ngaktifin xampp. Entah mysql bisa jalan atau tidak, muter-muter.
+Mengatasi bentrokan kode pada fitur profil perusahaan.
+Terjadi bentrokan saat penggabungan branch feature ke main.
 
 ## Jawaban 10 Pertanyaan Refleksi (Bab 16.4)
 
