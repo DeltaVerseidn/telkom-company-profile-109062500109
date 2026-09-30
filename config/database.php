@@ -1,11 +1,10 @@
 <?php
-$host = "localhost";
-$user = "root";
-$pass = "";
-$db   = "db_telkom_profile";
+mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
-$koneksi = mysqli_connect($host, $user, $pass, $db);
-if (!$koneksi) {
-    die("Koneksi gagal: " . mysqli_connect_error());
+try {
+    $conn = new mysqli('localhost', 'root', '', 'db_telkom_profile');
+    $conn->set_charset('utf8mb4');
+} catch (mysqli_sql_exception $e) {
+    exit('Koneksi database gagal. Periksa Apache/MySQL dan konfigurasi database.');
 }
 ?>
