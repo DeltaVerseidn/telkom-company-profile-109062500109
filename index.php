@@ -1,7 +1,10 @@
 <?php include 'config/database.php'; ?>
 <!DOCTYPE html>
 <html>
-<head><title>Beranda - Telkom Profile</title></head>
+<head>
+    <title>Beranda - Telkom Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 <body>
     <nav>
         <a href="index.php">Beranda</a> | 
