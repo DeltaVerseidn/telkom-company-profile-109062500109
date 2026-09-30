@@ -14,7 +14,7 @@
     
     <!-- Bagian Logo -->
     <div style="text-align: center; margin-bottom: 20px;">
-        <img src="images/logo.png" alt="Logo Perusahaan" width="200">
+        <img src="logo.png" alt="Logo Telkom" style="width: 200px;">
     </div>
 
     <h1>Selamat Datang di Telkom Company Profile</h1>
