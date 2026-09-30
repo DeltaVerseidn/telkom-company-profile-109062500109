@@ -11,8 +11,7 @@ Aplikasi web profil perusahaan berbasis PHP dan MySQL yang dikembangkan mengguna
 
 ## Catatan Penanganan Merge Conflict
 
-Mengatasi bentrokan kode pada fitur profil perusahaan.
-Terjadi bentrokan saat penggabungan branch feature ke main.
+[Versi Branch Feature] Mengatasi bentrokan kode pada fitur profil perusahaan.
 
 ## Jawaban 10 Pertanyaan Refleksi (Bab 16.4)
 
