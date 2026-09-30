@@ -11,7 +11,13 @@
         <a href="news.php">Berita</a> | 
         <a href="contact.php">Kontak</a>
     </nav>
+    
+    <!-- Bagian Logo -->
+    <div style="text-align: center; margin-bottom: 20px;">
+        <img src="images/logo.png" alt="Logo Perusahaan" width="200">
+    </div>
+
     <h1>Selamat Datang di Telkom Company Profile</h1>
-    <p>Ini adalah halaman utama perusahaan.</p>
+    <p>Ini adalah halaman utama perusahaan. Kami berkomitmen untuk memberikan layanan terbaik.</p>
 </body>
 </html>
