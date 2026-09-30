@@ -37,3 +37,5 @@ Aplikasi web profil perusahaan berbasis PHP dan MySQL yang dikembangkan mengguna
    Branch memungkinkan saya membuat ruang kerja bayangan yang terisolasi. Saya bisa mencoba fitur baru di ruang tersebut tanpa takut merusak kode utama atau mengganggu pekerjaan teman lain. Setelah fitur saya selesai dan aman, barulah kodenya digabungkan ke ruang utama.
 10. Bagaimana prepared statement membantu saat query menggunakan input pengguna?
     Teknik ini berfungsi memisahkan kerangka perintah database dari teks input pengguna. Aplikasi saya akan mengirimkan template perintahnya dulu ke database. Apa pun yang diketik oleh pengguna (termasuk kode peretas) hanya akan dibaca sebagai teks biasa, bukan sebagai perintah yang dijalankan.
+
+## Riwayat Praktikum Git
